@@ -1,0 +1,7 @@
+addReviewers: true
+
+reviewers:
+  - Kosking
+
+skipKeywords:
+  - wip
